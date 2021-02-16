@@ -17,3 +17,9 @@ instruction:
 links:
 * [Coursera page](https://www.coursera.org/projects/facial-expression-recognition-keras)
 * [Kaggle dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+
+***
+P.S.
+<br> If http://0.0.0.0:5000/ not work
+<br> Try:
+http://localhost:5000/
